@@ -9,4 +9,7 @@ public class HelloWorld {
 	
 	}
 
+	public int sum() {
+		return 3+5;
+	}
 }
